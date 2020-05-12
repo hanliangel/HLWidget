@@ -1,0 +1,8 @@
+<resources>
+
+    <declare-styleable name="MainBottomTabView">
+        <attr name="bottomMenuHeight" format="dimension" />
+    </declare-styleable>
+
+
+</resources>
