@@ -1,2 +1,2 @@
-include ':app', ':normal'
+include ':app', ':NormalWidget'
 rootProject.name='HLWidget'
